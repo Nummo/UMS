@@ -1,2 +1,2 @@
 # test-ums
-ums test
+Explorations from Under-Mapped Spaces Workshop
